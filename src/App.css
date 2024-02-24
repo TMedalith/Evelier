@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root{
+    --header-height: 64px;
+    --font-family: "Roboto", monospace;
+}
+
+*{
+  font-family: var(--font-family);
+}
+
+.ev-nav, .ev-nav-mov, .ev-carousel-style{
+    font-family: var(--font-family);
+}
+
+
+.ev-nav a {
+  position: relative;
+}
+
+.ev-nav a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 1px;
+    background: rgb(0, 0, 0);
+    transition: width .5s;
+  }
+  
+  .ev-nav a:hover::after {
+    width: 100%;
+    transition: width .5s;
+  }
+
+ .ev-carousel{
+    height: calc(100vh - var(--header-height));
+ }
+

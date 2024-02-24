@@ -1,0 +1,429 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Y2K Floral Style Dress",
+      "description": "Floral dress with Y2K-inspired style. Perfect for casual occasions and informal outings.",
+      "category": "Dresses",
+      "style": "Y2K",
+      "price": 39.99,
+      "color": "floral",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_Multi_20Color_2aa62991-afe1-4038-934c-9fc4dfbf2e2e_1001x1360.jpg?v=1707348412",
+        "https://lewkin.com/cdn/shop/files/004_2_75ea1080-ffb1-45ff-9ff6-35ae5de81701_1001x1360.jpg?v=1707349010"
+      ],
+      "availability": true,
+      "stock": 50,
+      "release_date": "2023-02-21",
+      "ratings": [],
+      "keywords": [
+        "dress",
+        "floral",
+        "Y2K",
+        "casual"
+      ],
+      "sales": 25
+    },
+    {
+      "id": 2,
+      "name": "Ribbed Crop Top",
+      "description": "White ribbed crop top. Perfectly pairs with jeans or skirts for a casual look.",
+      "category": "Tops",
+      "style": "Acubi",
+      "price": 24.99,
+      "color": "white",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_White_ec01c1de-59e5-4a54-82de-a6686914382f_1001x1360.jpg?v=1707348634",
+        "https://lewkin.com/cdn/shop/files/004_3_0613393c-175b-4e1c-a1f7-e69eeec8c3fe_1001x1360.jpg?v=1707348634"
+      ],
+      "availability": true,
+      "stock": 30,
+      "release_date": "2024-01-15",
+      "ratings": [],
+      "keywords": [
+        "top",
+        "white",
+        "ribbed",
+        "casual"
+      ],
+      "sales": 50
+    },
+    {
+      "id": 3,
+      "name": "Coquette Mini Dress",
+      "description": "Black mini dress with a coquette style. Perfect for a night out or a special occasion.",
+      "category": "Dresses",
+      "style": "Coquette",
+      "price": 49.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_Light_20Beige_1_527bfa44-bf70-4b2c-8d67-3e3c165b73a3_1001x1360.jpg?v=1708494310",
+        "https://lewkin.com/cdn/shop/files/002_4_beb64789-4c10-4efc-9b47-13dbb1235ef8_1001x1360.jpg?v=1708494310"
+      ],
+      "availability": true,
+      "stock": 20,
+      "release_date": "2023-12-01",
+      "ratings": [],
+      "keywords": [
+        "dress",
+        "black",
+        "coquette",
+        "night out"
+      ],
+      "sales": 10
+    },
+    {
+      "id": 4,
+      "name": "Grunge Denim Jacket",
+      "description": "Denim jacket with a grunge style. Perfect for a casual look and to keep you warm.",
+      "category": "Jackets",
+      "style": "Grunge",
+      "price": 59.99,
+      "color": "denim",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_1_ca4fe16d-bcf4-4c4d-9737-302d8f2c9950_1001x1360.jpg?v=1708494408",
+        "https://lewkin.com/cdn/shop/files/002_Blue_1_0b8c1645-ebc6-4b97-b32d-768a190f604e_1001x1360.jpg?v=1708494408"
+      ],
+      "availability": true,
+      "stock": 15,
+      "release_date": "2023-11-01",
+      "ratings": [],
+      "keywords": [
+        "jacket",
+        "denim",
+        "grunge",
+        "casual"
+      ],
+      "sales": 5
+    },
+    {
+      "id": 5,
+      "name": "Y2K Mini Skirt",
+      "description": "Mini skirt with a Y2K-inspired style. Perfect for a casual look and to pair with crop tops.",
+      "category": "Skirts",
+      "style": "Y2K",
+      "price": 29.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_1_67886806-9a3d-4b3f-8f27-1e94d3eb9195_1001x1360.jpg?v=1708494463",
+        "https://lewkin.com/cdn/shop/files/002_1_8b40a1c2-d9ca-4678-a2d0-64e2e268d004_1001x1360.jpg?v=1708494463"
+      ],
+      "availability": true,
+      "stock": 40,
+      "release_date": "2023-10-01",
+      "ratings": [],
+      "keywords": [
+        "skirt",
+        "black",
+        "Y2K",
+        "casual"
+      ],
+      "sales": 20
+    },
+    {
+      "id": 6,
+      "name": "Acubi Jeans",
+      "description": "High-waisted jeans with an Acubi style. Perfect for a casual look and to pair with crop tops.",
+      "category": "Jeans",
+      "style": "Acubi",
+      "price": 44.99,
+      "color": "blue",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_1_a64d39c9-b1c0-4da9-bbce-f3f06b323f4b_1001x1360.jpg?v=1708494676",
+        "https://lewkin.com/cdn/shop/files/002_2_a229f50e-1035-4c78-98e6-ead429bd5ca7_1001x1360.jpg?v=1708494677"
+      ],
+      "availability": true,
+      "stock": 35,
+      "release_date": "2023-09-01",
+      "ratings": [],
+      "keywords": [
+        "jeans",
+        "blue",
+        "Acubi",
+        "casual"
+      ],
+      "sales": 15
+    },
+    {
+      "id": 7,
+      "name": "Coquette Crop Top",
+      "description": "Black crop top with a coquette style. Perfect for a night out or a special occasion.",
+      "category": "Tops",
+      "style": "Coquette",
+      "price": 34.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_2105595c-2d2b-4553-8bf0-82f88229fe90_1001x1360.jpg?v=1707275826",
+        "https://lewkin.com/cdn/shop/files/002_9e47f817-b0fb-484d-a842-8a6a0e8fe5fe_1001x1360.jpg?v=1707275826"
+      ],
+      "availability": true,
+      "stock": 25,
+      "release_date": "2023-08-01",
+      "ratings": [],
+      "keywords": [
+        "top",
+        "black",
+        "coquette",
+        "night out"
+      ],
+      "sales": 30
+    },
+    {
+      "id": 8,
+      "name": "Grunge T-Shirt",
+      "description": "Black t-shirt with a grunge style. Perfect for a casual look and to pair with jeans.",
+      "category": "T-Shirts",
+      "style": "Grunge",
+      "price": 19.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_Dark_20gray_58aeb4f9-2db8-4c77-b99b-d62072578c81_1001x1360.jpg?v=1708494505",
+        "https://lewkin.com/cdn/shop/files/002_1_b3cde960-2292-4064-93e6-0e616d48a979_1001x1360.jpg?v=1708494503"
+      ],
+      "availability": true,
+      "stock": 45,
+      "release_date": "2023-07-01",
+      "ratings": [],
+      "keywords": [
+        "t-shirt",
+        "black",
+        "grunge",
+        "casual"
+      ],
+      "sales": 40
+    },
+    {
+      "id": 9,
+      "name": "Y2K Mini Dress",
+      "description": "Mini dress with a Y2K-inspired style. Perfect for a casual look and to pair with sneakers.",
+      "category": "Dresses",
+      "style": "Y2K",
+      "price": 44.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_4_fa3b595b-7481-4adf-baba-e17fdab145e9_1001x1360.jpg?v=1708494752",
+        "https://lewkin.com/cdn/shop/files/002_7_f9d96e7d-6117-4cae-bc15-63911511ae8d_1001x1360.jpg?v=1708494753"
+      ],
+      "availability": true,
+      "stock": 25,
+      "release_date": "2023-06-01",
+      "ratings": [],
+      "keywords": [
+        "dress",
+        "black",
+        "Y2K",
+        "casual"
+      ],
+      "sales": 35
+    },
+    {
+      "id": 10,
+      "name": "Acubi Mini Skirt",
+      "description": "Mini skirt with an Acubi style. Perfect for a casual look and to pair with crop tops.",
+      "category": "Skirts",
+      "style": "Acubi",
+      "price": 29.99,
+      "color": "blue",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_6_e5064876-5cb4-4172-aa9f-0b2a75763838_1001x1360.jpg?v=1708494716",
+        "https://lewkin.com/cdn/shop/files/002_2d78784d-182e-498b-83f9-087f638e592e_1001x1360.jpg?v=1708494716"
+      ],
+      "availability": true,
+      "stock": 40,
+      "release_date": "2023-05-01",
+      "ratings": [],
+      "keywords": [
+        "skirt",
+        "blue",
+        "Acubi",
+        "casual"
+      ],
+      "sales": 20
+    },
+    {
+      "id": 11,
+      "name": "Coquette Jeans",
+      "description": "High-waisted jeans with a coquette style. Perfect for a casual look and to pair with crop tops.",
+      "category": "Jeans",
+      "style": "Coquette",
+      "price": 44.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_Black_1001x1360.jpg?v=1707348634",
+        "https://lewkin.com/cdn/shop/files/004_2_1001x1360.jpg?v=1707348634"
+      ],
+      "availability": true,
+      "stock": 35,
+      "release_date": "2023-04-01",
+      "ratings": [],
+      "keywords": [
+        "jeans",
+        "black",
+        "Coquette",
+        "casual"
+      ],
+      "sales": 15
+    },
+    {
+      "id": 12,
+      "name": "Grunge Crop Top",
+      "description": "Black crop top with a grunge style. Perfect for a casual look and to pair with jeans.",
+      "category": "Tops",
+      "style": "Grunge",
+      "price": 34.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_Black_1001x1360.jpg?v=1707348634",
+        "https://lewkin.com/cdn/shop/files/004_2_1001x1360.jpg?v=1707348634"
+      ],
+      "availability": true,
+      "stock": 25,
+      "release_date": "2023-03-01",
+      "ratings": [],
+      "keywords": [
+        "top",
+        "black",
+        "grunge",
+        "casual"
+      ],
+      "sales": 30
+    },
+    {
+      "id": 13,
+      "name": "Y2K T-Shirt",
+      "description": "Black t-shirt with a Y2K-inspired style. Perfect for a casual look and to pair with jeans.",
+      "category": "T-Shirts",
+      "style": "Y2K",
+      "price": 19.99,
+      "color": "black",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_Black_1001x1360.jpg?v=1707348634",
+        "https://lewkin.com/cdn/shop/files/004_2_1001x1360.jpg?v=1707348634"
+      ],
+      "availability": true,
+      "stock": 45,
+      "release_date": "2023-02-01",
+      "ratings": [],
+      "keywords": [
+        "t-shirt",
+        "black",
+        "Y2K",
+        "casual"
+      ],
+      "sales": 40
+    },
+    {
+      "id": 14,
+      "name": "Acubi Mini Dress",
+      "description": "Mini dress with an Acubi style. Perfect for a casual look and to pair with sneakers.",
+      "category": "Dresses",
+      "style": "Acubi",
+      "price": 44.99,
+      "color": "blue",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "images": [
+        "https://lewkin.com/cdn/shop/files/001_Blue_1001x1360.jpg?v=1707348634",
+        "https://lewkin.com/cdn/shop/files/004_2_1001x1360.jpg?v=1707348634"
+      ],
+      "availability": true,
+      "stock": 25,
+      "release_date": "2023-01-01",
+      "ratings": [],
+      "keywords": [
+        "dress",
+        "blue",
+        "Acubi",
+        "casual"
+      ],
+      "sales": 35
+    } 
+  ],
+  "styles": [
+    {
+      "id": 1,
+      "name": "Y2K",
+      "image": "https://cdn.shopify.com/s/files/1/0600/4493/5332/files/hm_col_y2k_1213.webp?v=1702379704"
+    },
+    {
+      "id": 2,
+      "name": "Acubi",
+      "image": "https://cdn.shopify.com/s/files/1/0600/4493/5332/files/hm_col_acubi_1213.webp?v=1702379705"
+    },
+    {
+      "id": 3,
+      "name": "Coquette",
+      "image": "https://cdn.shopify.com/s/files/1/0600/4493/5332/files/hm_coquette_0103.webp?v=1704260394"
+    },
+    {
+      "id": 4,
+      "name": "Grunge",
+       "image": "https://lewkin.com/cdn/shop/files/008_2_a3488f63-058c-4447-9ace-135474e6e255_1001x1360.jpg?v=1704848176"
+    }
+  ]
+}

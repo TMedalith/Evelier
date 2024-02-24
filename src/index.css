@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&family=Poppins&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer utilities{
+    .font-archivoNarrow{
+        font-family: 'Archivo Narrow', sans-serif;
+    }
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .scrollbar::-webkit-scrollbar {
+        height: 15px;
+      }
+    
+      .scrollbar::-webkit-scrollbar-track {
+        background: #edeae2;
+        border-radius: 10px;
+      }
+    
+      .scrollbar::-webkit-scrollbar-thumb {
+        background: #df8e8e;
+        border: 3px solid #fae3fa;
+        border-radius: 10px;
+      }
+    
+      .scrollbar::-webkit-scrollbar-thumb:hover {
+        background: #fcc3ef;
+      }
+}
