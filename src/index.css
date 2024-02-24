@@ -9,6 +9,11 @@
     .font-archivoNarrow{
         font-family: 'Archivo Narrow', sans-serif;
     }
+
+    .font-helvetica{
+        font-family: 'Helvetica', sans-serif;
+    }
+
     .no-scrollbar::-webkit-scrollbar {
         display: none;
     }

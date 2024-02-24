@@ -13,7 +13,7 @@ function Carrousel({ products, title }) {
     }
 
     return (
-        <div className='px-10 space-y-7 mt-5 md:mt-20 relative'>
+        <div className='px-10 space-y-7 mb-5 md:mb-20 relative'>
             <h2 className='text-2xl md:text-4xl font-bold tracking-wider'>{title}</h2>
             <div className="relative overflow-hidden">
                 <div ref={carouselRef} className='flex space-x-6 overflow-x-auto scrollbar '>

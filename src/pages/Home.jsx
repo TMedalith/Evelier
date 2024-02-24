@@ -4,8 +4,8 @@ import { getProducts } from '../services/products';
 import Navigation from '../components/Navigation';
 import Styles from '../components/Styles';
 import Hero from '../components/Hero';
-import ProductCard from '../components/ProductCard';
 import Carrousel from '../components/Carrousel';
+import Footer from '../components/Footer';
 
 function Home() {
   const [newArrivals, setNewArrivals] = useState([]);
@@ -29,6 +29,8 @@ function Home() {
       <Styles />
       <Carrousel products={newArrivals} title='NEW ARRIVALS' />
       <Carrousel products={newArrivals} title='TRENDING NOW' />
+      <Footer />
+      
     </div>
   );
 }
