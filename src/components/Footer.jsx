@@ -20,7 +20,7 @@ const Footer = () => {
     ];
 
     return (
-        <footer className=" bg-gray-900 text-white py-12">
+        <footer className=" bg-gray-900 text-white px-5 py-12">
             <div className="container mx-auto px-6">
                 <div className="lg:flex justify-between items-start">
                     <div className="w-full lg:w-1/3">
@@ -36,7 +36,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="mt-6 lg:mt-0 lg:w-2/3 lg:flex justify-between">
+                    <div className="mt-6   lg:mt-0 lg:w-2/3 lg:flex justify-between">
                         {footerItems.map((item, index) => (
                             <div key={index} className="flex flex-col md:text-left lg:ml-12">
                                 <h2 className="text-lg font-semibold mb-4 cursor-pointer md:cursor-none " onClick={() => setExpandedItem(expandedItem === index ? null : index)}>{item.title}</h2>
