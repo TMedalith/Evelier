@@ -86,9 +86,7 @@ function Navigation() {
                                 <p className="text-gray-500 text-center">Your cart is currently empty.</p>
                                 </>
                             ) : (
-                                // Display cart items here, incorporating beautiful and elegant design elements
-                                <div className="  grid grid-cols-1 gap-4">
-                                    {/* ... Cart item components ... */}
+                                <div className="grid grid-cols-1 gap-4">
                                 </div>
                             )}
                         </div>

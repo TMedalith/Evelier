@@ -1,4 +1,3 @@
-// Home.js
 import React, { useState, useEffect } from 'react';
 import { getProducts } from '../services/products';
 import Navigation from '../components/Navigation';

@@ -60,7 +60,7 @@ const Footer = () => {
                 <div className="mt-8 text-center text-gray-400">
                     <p className="mb-2"> Lima, Peru</p>
                     <p className="mb-2">avelier@avelier.com</p>
-                    <p className="mb-2">+51 926412693</p>
+                    <p className="mb-2">+51 123456789</p>
                 </div>
             </div>
             
