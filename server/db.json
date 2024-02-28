@@ -7,7 +7,11 @@
       "category": "Dresses",
       "style": "Y2K",
       "price": 39.99,
-      "color": "floral",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -36,7 +40,11 @@
       "category": "Tops",
       "style": "Acubi",
       "price": 24.99,
-      "color": "white",
+      "colors": [
+        "white",
+        "black",
+        "blue"
+      ],
       "sizes": [
         "S",
         "M"
@@ -64,7 +72,11 @@
       "category": "Dresses",
       "style": "Coquette",
       "price": 49.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -93,7 +105,11 @@
       "category": "Jackets",
       "style": "Grunge",
       "price": 59.99,
-      "color": "denim",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -122,7 +138,11 @@
       "category": "Skirts",
       "style": "Y2K",
       "price": 29.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -151,7 +171,11 @@
       "category": "Jeans",
       "style": "Acubi",
       "price": 44.99,
-      "color": "blue",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -180,7 +204,11 @@
       "category": "Tops",
       "style": "Coquette",
       "price": 34.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M"
@@ -208,7 +236,11 @@
       "category": "T-Shirts",
       "style": "Grunge",
       "price": 19.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -237,7 +269,11 @@
       "category": "Dresses",
       "style": "Y2K",
       "price": 44.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -266,7 +302,11 @@
       "category": "Skirts",
       "style": "Acubi",
       "price": 29.99,
-      "color": "blue",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -295,7 +335,11 @@
       "category": "Jeans",
       "style": "Coquette",
       "price": 44.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -324,7 +368,11 @@
       "category": "Tops",
       "style": "Grunge",
       "price": 34.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M"
@@ -352,7 +400,11 @@
       "category": "T-Shirts",
       "style": "Y2K",
       "price": 19.99,
-      "color": "black",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
@@ -381,7 +433,11 @@
       "category": "Dresses",
       "style": "Acubi",
       "price": 44.99,
-      "color": "blue",
+      "colors": [
+        "pink",
+        "blue",
+        "green"
+      ],
       "sizes": [
         "S",
         "M",
