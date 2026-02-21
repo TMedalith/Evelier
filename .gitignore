@@ -7,10 +7,25 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
+**/node_modules
+
+# Build outputs
 dist
 dist-ssr
+build
+.next
+out
 *.local
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+**/.env
+**/.env.local
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +37,29 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Testing
+coverage
+.nyc_output
+
+# Database
+*.db
+*.sqlite
+
+# OS
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache
+.vite
+
+# Legacy code (for reference during migration)
+frontend-old/
+
+# TypeScript
+*.tsbuildinfo
+
+# Claude Code
+.claude
